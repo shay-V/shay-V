@@ -1,6 +1,6 @@
 <div id="title" align=center>
 
-![Modern C++ template][github-sub-title:img]
+<img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shay-520&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
@@ -19,5 +19,6 @@ theme=tokyonight 主题
 <a href="https://github.com/milaan9?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
 <a href="https://github.com/milaan9?tab=repositories&language=c" target="_blank"><img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C&logoColor=red"></a> 
 <a href="https://github.com/milaan9?tab=repositories&language=rust" target="_blank"><img alt="Rust" src="https://img.shields.io/badge/-rust-00599C?style=flat-square&logo=rust&logoColor=pink"></a>
+
 
 </div>
