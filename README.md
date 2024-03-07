@@ -1,6 +1,6 @@
 <div id="title" align=center>
 
-<img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" />
+<img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="100%" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shay-520&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
