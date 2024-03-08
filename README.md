@@ -9,8 +9,8 @@ theme=tokyonight 主题
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=shay-V&show_icons=true&theme=tokyonight">
     <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shay-V&layout=compact&show_icons=true&theme=tokyonight">
 
-# 
-<img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="%40" />
+##
+<img align="left" src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="%40" />
 
 
 ![](https://img.shields.io/badge/bilibili-bule) 
