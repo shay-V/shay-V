@@ -1,6 +1,7 @@
-<div id="title" align=center>
+<div align=center>
+><img src="https://github.com/shay-V/shay-V/blob/main/asset/00060-1216524461.pngg" width="100%" height="auto"/></a>
 
-我是Shay,我对编译原理、逆向工程和游戏黑客十分感兴趣
+<p  align="left">我是Shay,我对编译原理、逆向工程和游戏黑客十分感兴趣.一起学习,这是QQ群:905335954</p>
 
 ![](https://img.shields.io/badge/游戏黑客-purple)
 ![](https://img.shields.io/badge/编译原理-pink)
@@ -19,12 +20,6 @@ theme=tokyonight 主题
 
 ##
 <img align="left" src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="%40" />
-
-
-![](https://img.shields.io/badge/bilibili-bule) 
-
-
-
 
 
 </div>
