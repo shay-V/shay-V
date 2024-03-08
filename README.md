@@ -1,5 +1,6 @@
 <div id="title" align=center>
 
+我是Shay,我对编译原理、逆向工程和游戏黑客十分感兴趣
 
 ![](https://img.shields.io/badge/游戏黑客-purple)
 ![](https://img.shields.io/badge/编译原理-pink)
