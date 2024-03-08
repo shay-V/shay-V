@@ -2,13 +2,18 @@
 
 <img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="100%" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shay-520&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
-
+<img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
 <!-- 
 &layout=compact 语言紧凑布局
 theme=tokyonight 主题
  -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shay-520&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ <div  width="50%">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shay-V&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
+ </div>
+ <div  width="50%">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shay-V&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ </div>
+
 
 ![](https://img.shields.io/badge/bilibili-bule) 
 
@@ -20,5 +25,15 @@ theme=tokyonight 主题
 <a href="https://github.com/milaan9?tab=repositories&language=c" target="_blank"><img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C&logoColor=red"></a> 
 <a href="https://github.com/milaan9?tab=repositories&language=rust" target="_blank"><img alt="Rust" src="https://img.shields.io/badge/-rust-00599C?style=flat-square&logo=rust&logoColor=pink"></a>
 
+https://accounts.spotify.com/authorize?client_id=9e5ce714d08b4cf5a2445e95e014e506&response_type=code&scope=user-read-currently-playing,user-read-recently-played&redirect_uri=http://localhost/callback/
 
+AQAj0qSKG9bhQEWmlU4JOKQePfEWc1M2jBtd1DX-v2nAs9vgKKqZ3-DPTi57nhAHn8dWEUe6OmBAXXDsgDT5780K5B-1-x1XvQ1omZ291TEzF0BtR9lGvWJ8UVWE_GLhg-ExuevGjXGtoMnLZvW3tX0A3D1Ev2_9IPjE4tdmjZ5JLikcyv8jOPUFJvxNbISovuouwa3Mg50oAY59c5X6DETssvA8LbyTPES1E4J89IxAwem4dP_sX6o
+
+curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -H "Authorization: Basic OWU1Y2U3MTRkMDhiNGNmNWEyNDQ1ZTk1ZTAxNGU1MDY6NGUxYzM3NjI4NGNkNGQ4NWJjODQyYzEyMjQ0YWE4MTU=" -d "grant_type=authorization_code&redirect_uri=http://localhost:766/callback?code=AQAj0qSKG9bhQEWmlU4JOKQePfEWc1M2jBtd1DX-v2nAs9vgKKqZ3-DPTi57nhAHn8dWEUe6OmBAXXDsgDT5780K5B-1-x1XvQ1omZ291TEzF0BtR9lGvWJ8UVWE_GLhg-ExuevGjXGtoMnLZvW3tX0A3D1Ev2_9IPjE4tdmjZ5JLikcyv8jOPUFJvxNbISovuouwa3Mg50oAY59c5X6DETssvA8LbyTPES1E4J89IxAwem4dP_sX6o" https://accounts.spotify.com/api/token
+
+
+
+curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -H "Authorization: Basic OWU1Y2U3MTRkMDhiNGNmNWEyNDQ1ZTk1ZTAxNGU1MDY6NGUxYzM3NjI4NGNkNGQ4NWJjODQyYzEyMjQ0YWE4MTU=" -d "grant_type=authorization_code&redirect_uri=http://localhost/callback/&code=AQAj0qSKG9bhQEWmlU4JOKQePfEWc1M2jBtd1DX-v2nAs9vgKKqZ3-DPTi57nhAHn8dWEUe6OmBAXXDsgDT5780K5B-1-x1XvQ1omZ291TEzF0BtR9lGvWJ8UVWE_GLhg-ExuevGjXGtoMnLZvW3tX0A3D1Ev2_9IPjE4tdmjZ5JLikcyv8jOPUFJvxNbISovuouwa3Mg50oAY59c5X6DETssvA8LbyTPES1E4J89IxAwem4dP_sX6o" https://accounts.spotify.com/api/token
+
+http://localhost:766/callback?code=AQAj0qSKG9bhQEWmlU4JOKQePfEWc1M2jBtd1DX-v2nAs9vgKKqZ3-DPTi57nhAHn8dWEUe6OmBAXXDsgDT5780K5B-1-x1XvQ1omZ291TEzF0BtR9lGvWJ8UVWE_GLhg-ExuevGjXGtoMnLZvW3tX0A3D1Ev2_9IPjE4tdmjZ5JLikcyv8jOPUFJvxNbISovuouwa3Mg50oAY59c5X6DETssvA8LbyTPES1E4J89IxAwem4dP_sX6o
 </div>
