@@ -7,7 +7,7 @@
 &layout=compact 语言紧凑布局
 theme=tokyonight 主题
  -->
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=shay-V&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=shay-V&show_icons=true&theme=tokyonight">
     <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shay-V&layout=compact&show_icons=true&theme=tokyonight">
 
 
