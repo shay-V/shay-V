@@ -1,6 +1,5 @@
 <div id="title" align=center>
 
-<img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="100%" />
 
 <img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
 <!-- 
@@ -9,6 +8,8 @@ theme=tokyonight 主题
  -->
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=shay-V&show_icons=true&theme=tokyonight">
     <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shay-V&layout=compact&show_icons=true&theme=tokyonight">
+# 
+<img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="%40" />
 
 
 ![](https://img.shields.io/badge/bilibili-bule) 
