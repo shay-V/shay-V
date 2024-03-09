@@ -2,7 +2,7 @@
  
 <img src="https://github.com/shay-V/shay-V/blob/main/asset/92943148_p0.jpg" width="100%" height="auto"/></a>
 
-<img src="https://github.com/shay-V/shay-V/blob/main/asset/bilibili.png" width="100%" height="auto"/></a>
+<img src="https://github.com/shay-V/shay-V/blob/main/asset/bilibili.png"/></a>
 
 
 
