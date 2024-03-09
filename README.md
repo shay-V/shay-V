@@ -2,7 +2,7 @@
  
 <img src="https://github.com/shay-V/shay-V/blob/main/asset/92943148_p0.jpg" width="100%" height="auto"/></a>
 
-<embed  src="https://github.com/shay-V/shay-V/blob/main/asset/bilibili.svg" width="100%" height="auto"/></a>
+<svg  src="https://github.com/shay-V/shay-V/blob/main/asset/bilibili.svg" width="100%" height="auto"/></a>
 
 
 <p  align="left">你好,我是Shay,我对编译原理、逆向工程和游戏黑客十分感兴趣.欢迎来一起学习,这是QQ群:905335954</p>
