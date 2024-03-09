@@ -5,7 +5,7 @@
 ![](https://github.com/shay-V/shay-V/blob/main/asset/bilibili.svg)
 
 <p  align="left">你好,我是Shay,我对编译原理、逆向工程和游戏黑客十分感兴趣.欢迎来一起学习,这是QQ群:905335954</p>
-[](https://github.com/shay-V/shay-V/blob/main/asset/bilibili.svg)
+
 ---
 
 ![](https://img.shields.io/badge/游戏黑客-purple)
