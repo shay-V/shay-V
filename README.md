@@ -23,8 +23,9 @@
 &layout=compact 语言紧凑布局
 theme=tokyonight 主题
  -->
-    <img width="30%" src="https://github-readme-stats.vercel.app/api?username=shay-V&show_icons=true&theme=tokyonight">
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shay-V&layout=compact&show_icons=true&theme=tokyonight">
+ 
+    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=shay-V&show_icons=true&theme=tokyonight">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shay-V&layout=compact&show_icons=true&theme=tokyonight">
 
 ##
 <img align="left" src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="%30" />
