@@ -14,6 +14,7 @@
 ![](https://img.shields.io/badge/游戏黑客-purple)
 ![](https://img.shields.io/badge/编译原理-pink)
 ![](https://img.shields.io/badge/二次元-8A2BE2)
+![Spotify Status](https://shay-v.github.io/statu/)
 <a href="https://github.com/milaan9?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
 <a href="https://github.com/milaan9?tab=repositories&language=c" target="_blank"><img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C&logoColor=red"></a> 
 <a href="https://github.com/milaan9?tab=repositories&language=rust" target="_blank"><img alt="Rust" src="https://img.shields.io/badge/-rust-00599C?style=flat-square&logo=rust&logoColor=pink"></a>
@@ -31,6 +32,6 @@ theme=tokyonight 主题
 <img align="left" src="https://readme-spotify-status-n15q.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="%30" />
 <img align="left" src="https://shay-v.github.io/statu/" alt="s4nx Playing Now" width="%30" />
 [<img src="[https://{DOMAIN_OF_YOUR_VERCEL_APP}/api/run-spotify-status](https://shay-v.github.io/statu/)" alt="Your alt what" width="400" />](LINK_TO_YOUR_ACCOUNT)
-![Spotify Status](https://shay-v.github.io/statu/)
+
 
 </div>
