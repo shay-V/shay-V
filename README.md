@@ -31,5 +31,6 @@ https://shay-v.github.io/statu/
 <img align="left" src="https://readme-spotify-status-n15q.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="%30" />
 <img align="left" src="https://shay-v.github.io/statu/" alt="s4nx Playing Now" width="%30" />
 [<img src="[https://{DOMAIN_OF_YOUR_VERCEL_APP}/api/run-spotify-status](https://shay-v.github.io/statu/)" alt="Your alt what" width="400" />](LINK_TO_YOUR_ACCOUNT)
+![Spotify Status](https://shay-v.github.io/statu/)]
 
 </div>
